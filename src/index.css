@@ -108,6 +108,7 @@
   /* Smooth scrolling */
   html {
     scroll-behavior: smooth;
+    scroll-padding-top: 80px; /* adjust based on header height */
   }
 
   /* Custom scrollbar */
