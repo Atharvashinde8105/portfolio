@@ -212,7 +212,7 @@ const Hero = () => {
                 {/* Foreground Clear Photo */}
                 <div className="absolute inset-4 z-20 rounded-full overflow-hidden border-2 border-background shadow-lg">
                   <img
-                    src="/profile.jpg"
+                    src="/profile.JPG"
                     alt="Atharva Shinde"
                     className="w-full h-full object-cover"
                   />
